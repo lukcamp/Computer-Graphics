@@ -1,0 +1,4 @@
+/Users/lcarvalh/Desktop/csc305/assign5/build/CMakeFiles/assignment5.dir
+/Users/lcarvalh/Desktop/csc305/assign5/build/CMakeFiles/examples.dir
+/Users/lcarvalh/Desktop/csc305/assign5/build/CMakeFiles/edit_cache.dir
+/Users/lcarvalh/Desktop/csc305/assign5/build/CMakeFiles/rebuild_cache.dir
